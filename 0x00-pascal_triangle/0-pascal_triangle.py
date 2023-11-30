@@ -3,6 +3,7 @@
 pascal's triangle
 """
 
+
 def pascal_triangle(n):
     """
     create a pascal triangle size of n
