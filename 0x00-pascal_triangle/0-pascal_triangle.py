@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+
 def pascal_triangle(n):
+    """
+    create a pascal triangle size of n
+    """
     if n <= 0:
         return []
 
